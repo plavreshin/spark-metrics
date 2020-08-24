@@ -3,3 +3,12 @@
 target/
 .idea/
 .DS_Store
+
+# vsCode
+.vscode
+.metals
+.bloop
+project/.bloop
+project/metals.sbt
+project/project/metals.sbt
+project/project/project/metals.sbt
